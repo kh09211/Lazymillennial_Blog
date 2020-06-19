@@ -1,3 +1,7 @@
+<?php
+  // Since the site went from a blog to a project showcase, there is no more reason to have the home page 
+  header('Location: \projects.php');
+   ?>
 <!DOCTYPE html>
 <!-- This is the index/home page of lazymillennial.me-->
 <html>

@@ -27,7 +27,7 @@
       <br>
       <h2>Projects</h2>
       <br>
-      <p>Here, I would like to share with you my personal projects. I will slowly be adding them as articles to the site over the next few weeks. Keep checking the home page for updates and feel free to comment!</p>
+      <p>Welcome! I would like to share with you my personal projects. I will slowly be adding more to the site. Feel free to comment!</p>
     </div><br>
     <div class="container">
       <div class="row">

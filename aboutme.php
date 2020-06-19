@@ -31,10 +31,8 @@
     <img src="aboutme/kyleprofesional2.jpg" alt="kyle professional" class="header-small-img border border-dark rounded">
   </div>
     <br>
-		<p> Hello, my name is Kyle! As a millinneal "snowflake", I have been blessed with some life experiences that have given me much to talk about! This is to say that through some sometimes difficult and interesting times, I feel thankful that I have been blessed with a very experience rich life and now enjoy owning the media terms like "lazy millennial" (hince the name of the website!) 
-		</p><p>After graduating from the university with a bachelors degree in psychology in 2010, I was thrown to the wolves during what was called the Great Recession. Since things didn't quite work out with my "useless degree", I did what I had to do and took the jobs that I could. Throughout my adult life, I have worked a variety of different jobs including working in resturants, maintenance manager of a gym, call center worker, insurance salesman, auto and motorcycle mechanic, truck shop manager, ebay store operator, agraculture worker, factory worker, english teacher, and uber driver. Most recently I have studied electrical engineering and have gotten involved with web development (This website was coded by yours truly).
-		</p><p>My encounters with alernative lifestyles such as living in a RV while seeing new places, sleeping in my car while working in a distant city, and living in what some people call "third world countries" to study on the cheap, have changed me in many ways. I now see things somewhat differently than I once did and I am delighted to share with you my past projects, thoughts, insights, and experiences, as well as discuss topics relevant to millinneals. Thanks for reading, and for you underemployed millennials out there,</p>
-    <p class="text-center">Just be happy you have a job <img src="aboutme/wink.jpg"><br> &nbsp - Sincerely, Kyle </p>
+		<p> Hello, my name is Kyle! I am a web developer from the United States. I built this website originally as a blog and as my first public website. Since then, the site it has evolved into somewhat of a shocase of my previous projects and a way that I can share my past experiences. Please take a look at my web development portfolio by clicking the link in the menu above. Thanks for visiting the site!</p>
+    <p class="text-center"><img src="aboutme/wink.jpg"><br> &nbsp - Sincerely, Kyle </p>
     <br>
 		<!-- Back to top button-->
     <hr>

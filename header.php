@@ -11,24 +11,26 @@
   	</div>
 </div>
 <ul class="nav justify-content-center header-boot-copy" >
+  <!-- These menu items have been commented as the site went from blog to project showcase
   	<li class="nav-item">
     	<a class="nav-link text-dark" id="home" href="<?=$rootpath?>index.php">Home</a>
   	</li>
   	<li class="nav-item">
     	<a class="nav-link text-dark" id="blog" href="<?=$rootpath?>blog.php">Blog</a>
   	</li>
-      <li class="nav-item">
+  -->
+    <li class="nav-item">
       <a class="nav-link text-dark" id="projects" href="<?=$rootpath?>projects.php">Projects</a>
     </li>
-      <li class="nav-item">
-      <a class="nav-link text-dark" id="contact" href="http://kyleweb.dev">Kyleweb.dev</a>
-    </li>
   	<li class="nav-item">
-    	<a class="nav-link text-dark" id="quick_cash" href="<?=$rootpath?>quickcash.php">Quick Cash</a>
+    	<a class="nav-link text-dark" id="quick_cash" href="<?=$rootpath?>experiences.php">Experiences</a>
   	</li>
     <li class="nav-item">
     	<a class="nav-link text-dark" id="about_me" href="<?=$rootpath?>aboutme.php">About Me</a>
   	</li>
+    <li class="nav-item">
+      <a class="nav-link text-dark" id="contact" href="http://kyleweb.dev">Web Dev</a>
+    </li>
 
 </ul>
 <br>
